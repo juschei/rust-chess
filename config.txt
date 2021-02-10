@@ -1,0 +1,13 @@
+[opening book]
+USE OPENING BOOK: false
+OPENING BOOK PATH: books/performance.bin
+
+[transposition size in bytes]
+SIZE: 33554432
+
+[search nulls]
+ADD THREEFOLD REPETITION NULL: false
+ADD 50 COUNT NULL: false
+
+[debug]
+PRINT FAIL HIGH FIRST QUOTIENT: true
